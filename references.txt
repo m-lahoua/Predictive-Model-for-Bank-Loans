@@ -1,0 +1,26 @@
+**source de la base de données utilisée :
+https://www.kaggle.com/datasets
+
+**data cleaning :
+https://www.ibm.com/topics/data-quality
+https://en.wikipedia.org/wiki/Data_cleaning
+
+
+**analyse exploratoire :
+https://www.ibm.com/topics/exploratory-data-analysis
+https://en.wikipedia.org/wiki/Exploratory_data_analysis
+
+**algorithmes machine learning :
+https://en.wikipedia.org/wiki/Logistic_regression
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+https://en.wikipedia.org/wiki/Decision_tree_learning
+https://fr.wikipedia.org/wiki/Apprentissage_automatique
+https://www.datacamp.com/courses/sampling-in-python
+
+**biblithéques python :
+pandas: https://pandas.pydata.org/docs/
+matplotlib.pyplot: https://matplotlib.org/
+seaborn: https://seaborn.pydata.org/
+pickle: https://docs.python.org/3/library/pickle.html
+sklearn: https://scikit-learn.org/stable/
+numpy: https://numpy.org/doc/stable/
